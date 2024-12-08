@@ -28,7 +28,8 @@
 
 ❗❗❗Be careful when using discord token grabber, it's best to create a fake account because they might ban your account for violating the rules.❗❗❗
 
-
+FULL DOWNLOAD LINK WITH RATs and stealers:
+https://mega.nz/file/XmRwkQKZ#L7rp9ZUFuW2vOUPUiCA9xBxD2ZIKvP82GVNuGOqsFS4
 
 
 telegram contact: https://t.me/dragmeup
