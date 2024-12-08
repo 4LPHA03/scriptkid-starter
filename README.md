@@ -1,7 +1,7 @@
         # scriptkid-starter
         STARTER KIT FOR SCRIPTS KIDS
 
-        Hey! Did you want to satisfy your sick ego and try to steal the data of a kid who bullies you at school? Or would you like to hide your exe malware file because you don't have the gift of persuasion? Maybe you can't afford a normal digi spark and you use attiny85 and you lack scripts? Or maybe you're just looking for RATs? You've come to the right place...
+   Hey! Did you want to satisfy your sick ego and try to steal the data of a kid who bullies you at school? Or would you like to hide your exe malware file because you don't have the gift of persuasion? Maybe you can't afford a normal digi spark and you use attiny85 and you lack scripts? Or maybe you're just looking for RATs? You've come to the right place...
 
 🔥💳🔥 DISCORD TOKEN GRABBER - IP, STEAM, EPIC GAMES, PERSONAL INFO, WALLETS stealer 🔥💳🔥
 
@@ -17,7 +17,7 @@
 
 
 
-                                ❗❗❗Be careful when using discord token grabber, it's best to create a fake account because they might ban your account for violating the rules.❗❗❗
+❗❗❗Be careful when using discord token grabber, it's best to create a fake account because they might ban your account for violating the rules.❗❗❗
 
 
 
@@ -25,8 +25,7 @@
 telegram contact: https://t.me/dragmeup
 
 
-                                                                                                        passwd to extract .rar:
-dn8973gbdnap9888y12!(&^#Nu
+                                                                                        oasswd to extract .rar: dn8973gbdnap9888y12!(&^#Nu
 
 
 
